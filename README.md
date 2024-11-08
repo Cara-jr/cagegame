@@ -1,5 +1,5 @@
 # Cagebox Moving Game
-[Watch the Demo Video](./cageBox.mp4)
+![Demo](https://github.com/user-attachments/assets/66c9386f-5ad4-4867-837b-30e38dc37be7)
 This project is a cagebox moving game implemented in C/C++ using **graphics.h** for rendering visuals, **conio.h** for handling keyboard input, and **windows.h** for Windows API functions. You can **download and run this game locally** to experience moving boxes on a grid and solving levels by positioning them in designated areas.
 
 ## Overview
